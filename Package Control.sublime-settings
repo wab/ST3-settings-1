@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Alignment",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Emmet",
+		"FileDiffs",
+		"GotoDocumentation",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Sass",
+		"Tag",
+		"Text Pastry",
+		"Vue Syntax Highlight"
+	]
+}
